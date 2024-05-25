@@ -44,6 +44,4 @@ Feel free to submit issues or pull requests if you have any suggestions or impro
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
 
-Feel free to customize this description further to better fit your project specifics and preferences.
